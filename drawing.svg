@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="791.42857"
-     inkscape:cy="4788.5714"
+     inkscape:zoom="0.76095916"
+     inkscape:cx="609.41374"
+     inkscape:cy="1669.3707"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,5 +53,72 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,892)" />
+     transform="translate(0,892)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="84.666664"
+       y="-247.28568"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         x="84.666664"
+         y="-247.28568"
+         style="stroke-width:0.26458332">Deliverable:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.96145"
+       y="-236.36742"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         x="103.96145"
+         y="-236.36742"
+         style="stroke-width:0.26458332">Infographic contains 4 interactive charts---</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125.17097"
+       y="-226.28418"
+       id="text39"><tspan
+         sodipodi:role="line"
+         x="125.17097"
+         y="-226.28418"
+         style="stroke-width:0.26458332"
+         id="tspan41">line chart</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.47261"
+       y="-214.46249"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         x="132.47261"
+         y="-214.46249"
+         style="stroke-width:0.26458332">scatter plot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="133.16801"
+       y="-196.38226"
+       id="text51"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         x="133.16801"
+         y="-196.38226"
+         style="stroke-width:0.26458332">slope graph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.82031"
+       y="-184.90822"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         x="132.82031"
+         y="-184.90822"
+         style="stroke-width:0.26458332">chord graph</tspan></text>
+  </g>
 </svg>
