@@ -1,5 +1,6 @@
 + What are your deliverables?
 	An Infographic contains 4 interactive charts:
+	
 		+ a scatter plot : displays how the duration of trip changes with time, grouped by pairs of pick up and drop off location.
 		+ a line chart : displays the trend of numbers of trips begin in each zone.
 		+ a cord graph : displays the trip amount between two zones, compare the amount of trips from A to B and that from B to A.
