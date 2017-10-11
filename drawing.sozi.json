@@ -599,8 +599,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image2608",
-          "outlineElementId": "image2608",
+          "referenceElementId": "image919",
+          "outlineElementId": "image919",
           "outlineElementAuto": true,
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -609,7 +609,7 @@
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "",
-          "outlineElementId": "image2608",
+          "outlineElementId": "image919",
           "outlineElementAuto": true,
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -618,10 +618,10 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 620.698543721293,
-          "cy": 1272.1861642274391,
+          "cx": 620.2446331125061,
+          "cy": 1285.8034824910508,
           "width": 429.3994359124819,
-          "height": 241.4239444529039,
+          "height": 241.48044387467272,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -631,10 +631,10 @@
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
-          "cx": 620.698543721293,
-          "cy": 1272.1861642274391,
-          "width": 429.39943591248175,
-          "height": 241.42394445290378,
+          "cx": 620.2446331125061,
+          "cy": 1285.8034824910508,
+          "width": 429.39943591248186,
+          "height": 241.48044387467266,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -646,10 +646,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -4.070865458394451,
-          "deltaY": -17.03990999131088,
+          "deltaX": -4.524776067181392,
+          "deltaY": -3.4225917276992277,
           "widthFactor": 1.031521416300923,
-          "heightFactor": 1.0306496003675947,
+          "heightFactor": 1.0308907989222742,
           "deltaAngle": 0
         }
       }
@@ -987,7 +987,7 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "frame3700"
+    "frame2870"
   ],
   "selectedLayers": [
     "layer1",
