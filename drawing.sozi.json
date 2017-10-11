@@ -61,72 +61,6 @@
       "cameraOffsets": {}
     },
     {
-      "frameId": "frame2670",
-      "title": "New frame",
-      "timeoutMs": 20000,
-      "timeoutEnable": true,
-      "transitionDurationMs": 1000,
-      "showInFrameList": true,
-      "showFrameNumber": true,
-      "layerProperties": {
-        "layer1": {
-          "link": false,
-          "referenceElementId": "image1653",
-          "outlineElementId": "image1653",
-          "outlineElementAuto": true,
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "__sozi_auto__": {
-          "link": false,
-          "referenceElementId": "",
-          "outlineElementId": "image1653",
-          "outlineElementAuto": true,
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        }
-      },
-      "cameraStates": {
-        "layer1": {
-          "cx": 601.9662383521367,
-          "cy": 119.40011436872895,
-          "width": 444.48949771952607,
-          "height": 249.9081247726872,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "__sozi_auto__": {
-          "cx": 601.9662383521367,
-          "cy": 119.40011436872895,
-          "width": 444.48949771952607,
-          "height": 249.90812477268713,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        }
-      },
-      "cameraOffsets": {
-        "layer1": {
-          "deltaX": -22.803170827550844,
-          "deltaY": 1.39608604841645,
-          "widthFactor": 1.067771398544596,
-          "heightFactor": 1.0668689450388398,
-          "deltaAngle": 0
-        }
-      }
-    },
-    {
       "frameId": "frame8013",
       "title": "New frame",
       "timeoutMs": 20000,
@@ -1053,10 +987,11 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "frame2123"
+    "frame5874"
   ],
   "selectedLayers": [
-    "layer1"
+    "layer1",
+    "__sozi_auto__"
   ],
   "editableLayers": []
 }
